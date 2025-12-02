@@ -94,7 +94,7 @@ uv:So/IrSource/BeamEnergySpectrumWeightsUnscaled = 39 0.0120 0.0205 0.0263 0.044
 
 uv:So/IrSource/BeamEnergySpectrumWeights = 0.43492973 * So/IrSource/BeamEnergySpectrumWeightsUnscaled
 
-ic:So/IrSource/NumberOfHistoriesInRun = 10000
+ic:So/IrSource/NumberOfHistoriesInRun = 100000
 
 # ========================================================
 # PHYSICS
